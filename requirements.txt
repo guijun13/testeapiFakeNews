@@ -3,5 +3,13 @@ flask==2.2.2
 flask_cors==3.0.10
 newspaper3k==0.2.8
 nltk==3.7
-python==2.1.2
 gunicorn==20.1.0
+scipy==1.1.0
+numpy==1.14.6
+threadpoolctl==2.0.0
+joblib==0.11
+pytz==2017.3
+numpy==1.17.3
+python-dateutil==2.7.3
+six==1.5
+python==2.1.2
