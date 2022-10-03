@@ -7,7 +7,7 @@ gunicorn==20.1.0
 scipy==1.1.0
 threadpoolctl==2.0.0
 joblib==0.11
-pytz==2017.3
+pytz==2020.1
 numpy==1.17.3
 six==1.5
 python-utils==3.3.3
